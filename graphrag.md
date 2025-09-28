@@ -29,3 +29,7 @@
 - **SQLite** (document storage)  
 - **OpenAI APIs** (embeddings + generation)  
 - **pandas / sklearn** (lightweight analytics + evaluation)  
+
+---
+
+[⬅ Back to Portfolio Home](README.md)
