@@ -1,7 +1,9 @@
 # GraphRAG Knowledge Orchestrator
 
 ## Overview
-[1–2 short paragraphs introducing the project in simple terms + buzzwords]  
+This GraphRAG Knowledge Orchestrator is an AI system that combines retrieval-augmented generation (RAG) with a knowledge graph backbone to deliver transparent, verifiable answers. By blending graph search, vector embeddings, and LLM reasoning, it allows users to explore relationships across entities, trace evidence paths, and summarize context with citations.
+
+The orchestrator is designed for cost-aware, modular AI workflows, offering observability on latency and token usage while ensuring results remain explainable and auditable. This makes it a powerful foundation for domains where trust, transparency, and efficiency are critical.  
 
 ## Example Use Cases
 - Trace relationships between entities in a knowledge graph.  
