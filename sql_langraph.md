@@ -52,7 +52,7 @@ The goal is to show *agentic structure* (LangGraph), *safe data access* (templat
 ## Architecture (high level)
 The agent is built as a **deterministic LangGraph**:
 
-For a visual overview of the architecture, see [`docs/architecture.md`](docs/architecture.md)
+For a visual overview of the architecture, see [(sql_langraph_architecture.md](sql_langraph_architecture.md)
 
 ```mermaid
 flowchart TD
