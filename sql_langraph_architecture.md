@@ -2,7 +2,7 @@
 
 The LangGraph E-commerce Agent converts a natural-language business query into structured BigQuery analysis and human-readable insights.
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/architecture.png)
 
 ## Components
 
@@ -39,7 +39,7 @@ The LangGraph E-commerce Agent converts a natural-language business query into s
 The following sequence diagram shows the **deterministic** path end-to-end.
 
 <p align="center">
-  <img src="sequence_det.png" alt="Deterministic Request Sequence" width="600"/>
+  <img src="images/sequence_det.png" alt="Deterministic Request Sequence" width="600"/>
   <br>
   <em>Deterministic planning – template-based</em>
 </p>
@@ -47,7 +47,7 @@ The following sequence diagram shows the **deterministic** path end-to-end.
 For the **dynamic** path, planning first calls Gemini to get a SQL plan and only then continues with the same downstream nodes.
 
 <p align="center">
-  <img src="sequence_dyn.png" alt="Dynamic Request Sequence" width="600"/>
+  <img src="images/sequence_dyn.png" alt="Dynamic Request Sequence" width="600"/>
   <br>
   <em>Dynamic planning – Gemini JSON → guarded raw SQL</em>
 </p>
