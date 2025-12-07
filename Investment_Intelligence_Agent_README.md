@@ -21,7 +21,6 @@ The platform works entirely with user-provided chart images and CSV data, produc
 - Reads uploaded chart images using advanced vision models (OpenAI & Gemini).  
 - Identifies trend structure, support/resistance, volatility shifts, and key price zones.  
 - Extracts contextual market information to support strategy decisions.
-
 ---
 
 ### 📈 Predictive Modeling Engine (ML)
@@ -89,7 +88,7 @@ Generates a compact morning briefing with:
 
 ## ☁️ Cloud Access
 
-The system was deployed to a private cloud environment, enabling secure access from any device.
+The system was deployed to a private cloud environment(in gcp), enabling secure access.
 
 ---
 
