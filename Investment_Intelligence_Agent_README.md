@@ -28,6 +28,10 @@ The platform works entirely with user-provided chart images and CSV data, produc
 - Trains forecasting models that produce short-term directional and magnitude predictions.  
 - Provides performance charts, error analysis, and evaluation metrics.
 
+![IntraAlgo Screenshot](images/intra_algo.png)
+
+![Model Evaluation Screenshot](images/regression%20results.png)
+
 ---
 
 ## 📊 Strategy Bank (VWAP Strategy Selector)
@@ -39,9 +43,9 @@ A curated collection of VWAP-based strategies that can be evaluated on demand.
 - Suggests parameter ranges and expected behavior.  
 - Users can optionally review optimization results after running a strategy.
 
-**➡️ Screenshot Placeholder:**  
-`![Strategy Bank Screenshot](images/strategy_bank.png)`  
-*Use the screenshot showing the ranked VWAP strategies with explanations.*
+![Uploading Strategy Bank Input](images/uploading%20vwap%20strategies.png)
+
+![Strategy Bank Screenshot](images/result%20vwap%20strategies.png)
 
 ---
 
@@ -53,9 +57,8 @@ A specialized fixed-logic analyzer for Renko-based VWAP setups.
 - Identifies potential entry regions and risk zones.  
 - Focuses on structural clarity and simplicity—no optimization step.
 
-**➡️ Screenshot Placeholder:**  
-`![VWAP Renko Screenshot](images/vwap_renko.png)`  
-*Use the screenshot showing the Renko-based VWAP analysis results.*
+![VWAP Renko Screenshot](images/result%20vwap%20renko.png)
+
 
 ---
 
@@ -68,9 +71,8 @@ A structured swing-trading evaluator inspired by professional multi-day analysis
 - Produces swing bias and areas of interest based on predefined criteria.  
 - Works across both OpenAI and Gemini models.
 
-**➡️ Screenshot Placeholder:**  
-`![Swing Agent Screenshot](images/swing_agent.png)`  
-*Use the opening screen of the Swing Agent.*
+![Swing Agent Screenshot](images/5%20star%20agent%20upload.png)
+
 
 ---
 
@@ -84,27 +86,13 @@ Generates a compact morning briefing with:
 - Notable news  
 - Symbol-level highlights  
 
+![Daily Highlight](images/daily%20highlight.png)
+
 ---
 
 ## ☁️ Cloud Access
 
 The system was deployed to a private cloud environment(in gcp), enabling secure access.
-
----
-
-## 📷 Example Screenshots
-
-### 1. Strategy Bank – VWAP Recommendations  
-`![Strategy Bank Screenshot](images/strategy_bank.png)`  
-*Use the screenshot with the ranked VWAP strategies and reasoning.*
-
-### 2. VWAP Renko Agent – Analysis Output  
-`![VWAP Renko Screenshot](images/vwap_renko.png)`  
-*Use the Renko-based VWAP evaluation screenshot.*
-
-### 3. Predictive Modeling Engine – Evaluation View  
-`![Model Evaluation Screenshot](images/model_eval.png)`  
-*Use the IntraAlgo regression evaluation screenshot showing predicted vs actual.*
 
 ---
 
