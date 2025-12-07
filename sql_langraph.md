@@ -6,7 +6,7 @@
 3. `pip install -r requirements.txt`  
 4. Run: `python -m src.main` *(interactive)* or `python -m src.dev_run_scenarios` *(batch)*  
 5. In `src/config.py`, set model (e.g. `gemini-2.5-flash` or pro if api key usage permits) and `INTENT_MODE = "deterministic"` or `"dynamic"`  
-6. 📘 **See full architecture:** [docs/architecture.md](docs/architecture.md)
+6. 📘 **See full architecture:** [(sql_langraph_architecture.md](sql_langraph_architecture.md)
 **When to use each:**
 - Use **deterministic mode** for standard analytic questions (“top products”, “sales by country”, “monthly trend”).
 - Use **dynamic mode** for more open or composite requests that cross categories or logic (“show men’s outerwear sales in US and Canada”, “compare churn between new and returning users”).
