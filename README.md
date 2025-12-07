@@ -5,6 +5,9 @@ Each project has its own page with explanation, highlights, and visuals.
 
 ## Projects
 
+-  [LangGraph SQL Analytics Agent](sql_langraph_agent.md)  
+  An agentic analytics workflow that turns open-ended business questions into structured SQL queries and interpretable insights. The system combines deterministic SQL templates with guarded LLM-based planning, integrates BigQuery + Gemini, and delivers concise analytical summaries through a transparent, node-based graph architecture.
+
 - [GraphRAG Knowledge Orchestrator](graphrag.md)  
   Retrieval-Augmented Generation with a knowledge graph backbone for verifiable, cost-aware answers.  
 
