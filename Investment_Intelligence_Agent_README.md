@@ -32,6 +32,8 @@ The platform works entirely with user-provided chart images and CSV data, produc
 
 ![Model Evaluation Screenshot](images/regression%20results.png)
 
+![Movement Results](images/movement%20results.png)
+
 ---
 
 ## 📊 Strategy Bank (VWAP Strategy Selector)
