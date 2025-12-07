@@ -14,6 +14,6 @@ Each project has its own page with explanation, highlights, and visuals.
 - [Player Behavior AI](gaming.md)  
   Data-driven analysis of player behavior and game telemetry to extract actionable insights.  
 
-- Investment Intelligence Agent([Work in Progress])
-   
+- [Investment Intelligence Agent](Investment_Intelligence_Agent_README.md)
+
   An AI-powered assistant for financial data that delivers market insights and investment research. The system combines data retrieval, predictive analytics, and GenAI reasoning to help users make informed decisions.
